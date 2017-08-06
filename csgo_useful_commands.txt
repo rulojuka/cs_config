@@ -1,0 +1,2 @@
+cl_showpos "1" // Show position and velocity
+net_graph "1" // Shows fps and network information
